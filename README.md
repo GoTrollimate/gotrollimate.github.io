@@ -1,7 +1,7 @@
 # Welcome!
 
 <p align="center">
-  <a href="#"><img src="Resources/GitHub/GoTrollimate.png"></a>
+  <a href="#"><img src="GoTrollimate.png"></a>
 </p>
 
 For Trolls, By Trolls.

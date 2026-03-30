@@ -1,2 +1,6 @@
-# gotrollimate.github.io
-The Go!Trollimate Website. For Trolls, By Trolls.
+# Welcome!
+
+
+
+For Trolls, By Trolls.
+

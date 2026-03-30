@@ -1,7 +1,10 @@
-# Welcome!
+# <p align="center">Welcome!</p>
 
 <p align="center">
   <a href="#"><img src="GoTrollimate.png"></a>
 </p>
 
-For Trolls, By Trolls.
+### <p align="center">For Trolls, By Trolls.</p>
+
+
+<p align="center"> UNDER CONSTRUCTION </p>

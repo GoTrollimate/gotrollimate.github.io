@@ -6,4 +6,4 @@
 
 ### For Trolls, By Trolls.
 
-UNDER CONSTRUCTION
+https://discord.gg/fjEEywGmXm

@@ -6,5 +6,5 @@
 
 ### For Trolls, By Trolls.
 
-[Homepage](https://gotrollimate.github.io/wikihomepage.html)
+[Homepage](https://gotrollimate.github.io/index.html)
 [Discord Server](https://discord.gg/fjEEywGmXm)

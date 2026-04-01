@@ -6,7 +6,7 @@
 
 ### For Trolls, By Trolls.
 
-Go!Trollimate is a wiki run by CriminalUser, The Evil Bad User, Velvett and more.
+Go!Trollimate is a community & wiki run by CriminalUser, The Evil Bad User, Velvett, and more.
 
 This wiki documents the deplorable specimens within the Go!Animate community.
 We also document trolls and other things.
